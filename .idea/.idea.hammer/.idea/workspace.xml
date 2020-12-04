@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d02881b-8c5a-48f6-a753-206270229fc6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04258D1C-DC10-4424-8C2A-17A6A31A3CF7/d2/9cd780fd/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Fence.cs" />
+        <option value="$PROJECT_DIR$/Assets/Effect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EffectTransform.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TransformScript/LeftFence.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Hammer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TransformScript/ParticleEffectTransform.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TransformScript/HammerTransform.cs" />
+        <option value="$PROJECT_DIR$/Assets/MainCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Manager/YeniManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TransformScript/Fence.cs" />
+        <option value="$PROJECT_DIR$/Assets/FenceGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Manager/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jq47AvET7hayEVT1TExG1YKR9q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d02881b-8c5a-48f6-a753-206270229fc6" name="Default Changelist" comment="" />
+      <created>1604518122849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604518122849</updated>
+      <workItem from="1604518127101" duration="19420000" />
+      <workItem from="1604573704626" duration="13265000" />
+      <workItem from="1604587333242" duration="86000" />
+      <workItem from="1604587476938" duration="109000" />
+      <workItem from="1604587615323" duration="540000" />
+      <workItem from="1604594091853" duration="12763000" />
+      <workItem from="1604654918290" duration="6171000" />
+      <workItem from="1604685993456" duration="496000" />
+      <workItem from="1604687006703" duration="7594000" />
+      <workItem from="1604754611194" duration="2320000" />
+      <workItem from="1604831462060" duration="832000" />
+      <workItem from="1604927861796" duration="769000" />
+      <workItem from="1604929840264" duration="5088000" />
+      <workItem from="1604942511256" duration="4648000" />
+      <workItem from="1604992587064" duration="23093000" />
+      <workItem from="1605034417950" duration="5684000" />
+      <workItem from="1605078491484" duration="19718000" />
+      <workItem from="1605122380378" duration="3567000" />
+      <workItem from="1605167799672" duration="16794000" />
+      <workItem from="1605214344709" duration="3547000" />
+      <workItem from="1605263967489" duration="5960000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="307" y="58" key="SettingsEditor" timestamp="1604587584332">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="307" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604587584332" />
+  </component>
+</project>
